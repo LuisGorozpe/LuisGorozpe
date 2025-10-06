@@ -20,7 +20,7 @@ Skills: Math, Time Series, Machine Learning, Statistics, Python, R, Latex, Js, D
 - 📫 How to reach me: luis.ascencio@cimat.mx 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LuisGorozpe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luisgorozpe//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://luisgorozpe.github.io/al-folio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>](https://orcid.org/0009-0009-1694-5993)  
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://github.com/LuisGorozpe/LuisGorozpe/blob/main/github-svgrepo-com.svg' alt='github' height='40'>](https://github.com/LuisGorozpe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luisgorozpe//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://luisgorozpe.github.io/al-folio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>](https://orcid.org/0009-0009-1694-5993)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGorozpe)](https://github.com/anuraghazra/github-readme-stats)
 
