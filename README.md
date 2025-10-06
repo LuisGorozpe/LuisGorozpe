@@ -17,7 +17,8 @@ Skills: Math, Time Series, Machine Learning, Statistics, Python, R, Latex, Js, D
 - 🔭 I’m currently working on a [workshop](https://luisgorozpe.github.io/py-ts-course/#/) on [advanced Python practices applied to time series](https://economicas.unam.mx/actividades/practicas-python-2025) for the [Institute of Economic Research at UNAM](https://economicas.unam.mx)
 - 🌱 I’m currently learning [MlOps](https://ml-ops.org) 
 - 👯 I’m looking to collaborate on time series projects and applications of machine learning techniques in data science, finance, and industry 
-- 📫 How to reach me: luis.ascencio@cimat.mx 
+- 📫 How to reach me: luis.ascencio@cimat.mx
+- iugfieghuter
 
 
 [<img src='https://github.com/LuisGorozpe/LuisGorozpe/blob/main/github-octocat-svgrepo-com.svg' alt='github' height='40'>](https://github.com/LuisGorozpe)  [<img src='https://github.com/LuisGorozpe/LuisGorozpe/blob/main/linkedin-svgrepo-com.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luisgorozpe/)  [<img src='https://github.com/LuisGorozpe/LuisGorozpe/blob/main/cloud-svgrepo-com.svg' alt='website' height='40'>](https://luisgorozpe.github.io/al-folio/)  [<img src='https://github.com/LuisGorozpe/LuisGorozpe/blob/main/orcid-svgrepo-com.svg' height='40'>](https://orcid.org/0009-0009-1694-5993)    
