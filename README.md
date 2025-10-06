@@ -14,8 +14,8 @@ Skills: Math, Time Series, Machine Learning, Statistics, Python, R, Latex, Js, D
 
 
 
-- 🔭 I’m currently working on https://luisgorozpe.github.io/py-ts-course/#/ 
-- 🌱 I’m currently learning https://ml-ops.org 
+- 🔭 I’m currently working on a [workshop](https://luisgorozpe.github.io/py-ts-course/#/) on [advanced Python practices applied to time series](https://economicas.unam.mx/actividades/practicas-python-2025) for the [Institute of Economic Research at UNAM](https://economicas.unam.mx)
+- 🌱 I’m currently learning [MlOps](https://ml-ops.org) 
 - 👯 I’m looking to collaborate on time series projects and applications of machine learning techniques in data science, finance, and industry 
 - 📫 How to reach me: luis.ascencio@cimat.mx 
 
