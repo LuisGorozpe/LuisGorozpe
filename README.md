@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Luis Enrique Ascencio Gorozpe
-#### I am a Data Scientist and a Ph.D. candidate in Mathematics at [CIMAT](https://www.cimat.mx) 
+#### I am a Data Scientist and a Ph.D. candidate in Probability and Statistics at [CIMAT](https://www.cimat.mx) 
 ![I am a Data Scientist and a Ph.D. candidate in Probability and Statistics at [CIMAT](https://www.cimat.mx) ](https://luisgorozpe.github.io/py-ts-course/images/banner4.png)
 
 My work primarily focuses on No-linear statistics. I completed my Master’s degree in Pure Mathematics in 2021 and my Bachelor’s degree in Mathematics in 2017.
