@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Luis Enrique Ascencio Gorozpe
 #### I am a Data Scientist and a Ph.D. candidate in Mathematics at [CIMAT](https://www.cimat.mx) 
-![I am a Data Scientist and a Ph.D. candidate in Mathematics at [CIMAT](https://www.cimat.mx) ](https://luisgorozpe.github.io/py-ts-course/images/banner4.png)
+![I am a Data Scientist and a Ph.D. candidate in Probability and Statistics at [CIMAT](https://www.cimat.mx) ](https://luisgorozpe.github.io/py-ts-course/images/banner4.png)
 
-My work primarily focuses on probability and statistics. I completed my Master’s degree in Pure Mathematics in 2021 and my Bachelor’s degree in Mathematics in 2017.
+My work primarily focuses on No-linear statistics. I completed my Master’s degree in Pure Mathematics in 2021 and my Bachelor’s degree in Mathematics in 2017.
 
-Currently, as a Ph.D. candidate at CIMAT, my coursework and research are centered on Probability and Statistics. I have a particular interest in Data Science, Machine Learning, nonlinear statistics, and high-dimensional statistics, with a specific focus on dimensionality reduction techniques.
+I am actively pursuing professional certifications to align my academic expertise with industry best practices. My current focus includes obtaining Data Analyst certifications in cloud environments (GCP and AWS), and completing specialized courses to acquire Databricks certifications for massive and distributed computing using Spark and PySpark. My doctoral research at CIMAT is centered on advanced Probability and Statistics, with a practical emphasis on Machine Learning (ML) techniques, high-dimensional statistics, and dimensionality reduction. I specialize in developing and applying cutting-edge methodologies for time series analysis and the statistical modeling of complex, non-Euclidean data structures. I have also gained pedagogical experience as a Teaching Assistant for graduate courses, including Statistical Models, Programming (Python/R), Time Series, Statistical Inference, and Statistical Computing.
 
  My current research interests include nonlinear statistics on Riemannian manifolds, the analysis and modeling of time series, and the study of Data Science and its application for developing Machine Learning and artificial intelligence technologies.
 
