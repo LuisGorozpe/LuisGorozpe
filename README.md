@@ -82,24 +82,10 @@ With a background in **High-Performance Computing (HPC)** and **Linux System Adm
 | **Introduction to Generative AI** | Google Skills | 🟢 Active |
 | **Databricks / Spark** | Databricks | 🟡 In Progress |
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=LuisGorozpe&show_icons=true&theme=radical&hide_border=true" alt="Luis's GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGorozpe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
-  </a>
-</div>
-<br clear="both">
 
 ---
 
 <div align="center">
-  <p>🌱 I’m currently learning <b>MLOps</b> and <b>Cloud Architecture (AWS/GCP)</b>.</p>
-  <p>👯 I’m looking to collaborate on <b>Time Series projects</b> and <b>Finance ML applications</b>.</p>
   <p>© 2026 Luis Enrique Ascencio Gorozpe</p>
 </div>
