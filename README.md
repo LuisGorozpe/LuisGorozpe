@@ -2,7 +2,7 @@
   <img src="https://luisgorozpe.github.io/py-ts-course/images/banner4.png" alt="Banner" width="100%" />
 
   # Luis Enrique Ascencio Gorozpe
-  ### Data Scientist | Statistician | PhD Candidate
+  ### Data Scientist | Statistician | PhD Candidate | Data engineer and machine learning in training
   
   *Bridging the gap between rigorous mathematical theory and industrial data solutions.*
 
@@ -81,6 +81,8 @@ With a background in **High-Performance Computing (HPC)** and **Linux System Adm
 | **Introduction to Large Language Models** | Google Skills | 🟢 Active |
 | **Introduction to Generative AI** | Google Skills | 🟢 Active |
 | **Databricks / Spark** | Databricks | 🟡 In Progress |
+| **GCP** | Google Skills | 🟡 In Progress |
+| **AWS** | AWS Skill Builder  | 🟡 In Progress |
 
 
 
