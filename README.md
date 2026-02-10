@@ -4,7 +4,6 @@
   # Luis Enrique Ascencio Gorozpe
   ### Data Scientist | Statistician | PhD Candidate | Data engineer and machine learning in training
   
-  *Bridging the gap between rigorous mathematical theory and industrial data solutions.*
 
   [![Personal Page](https://img.shields.io/badge/Personal-Web--Page-blue?style=for-the-badge&logo=google-cloud)](https://luisgorozpe.github.io/al-folio/)
   [![Portafolio](https://img.shields.io/badge/Portfolio---blue?style=for-the-badge&logo=google-cloud)](https://luisgorozpe.github.io/portfolio/)
