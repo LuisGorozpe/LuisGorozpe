@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **PhD Candidate in Probability and Statistics** at [CIMAT](https://www.cimat.mx) and Data Scientist with a strong foundation in Probability, Statistics, and High-Performance Computing (HPC). Expert in predictive models, Time Series Analysis (ARIMA, GARCH), Multivariate Statistics, and Machine Learning algorithms. Proficient in developing scalable solutions using Python (Jax, Pandas), GNU/Linux OS (Bash, +10 years) and C/C++.
+I am a **PhD Candidate in Probability and Statistics** at [CIMAT](https://www.cimat.mx) and Data Scientist with a strong foundation in Mathematics, Probability and Statistics. Expert in predictive models and Machine Learning algorithms. Proficient in developing scalable solutions using Python, GNU/Linux OS (Bash, +10 years) and C/C++.
 
 With a background in **High-Performance Computing (HPC)** and **Linux System Administration**, I specialize in building data pipelines that are not only statistically sound but computationally efficient. I am currently transitioning my academic rigor into high-impact roles in Data Science and Data Engineering.
 
