@@ -67,7 +67,7 @@ With a background in **High-Performance Computing (HPC)** and **Linux System Adm
 **CIMAT (2021-2025)**
 * Developing algorithms for dimensionality reduction to analyze complex geometric datasets.
 * Implementing custom solutions in Python for non-Euclidean statistical analysis.
-* Presented research on calculating mean values in nonlinear spaces at the 56th National Congress of the Mexican Mathematical Society.
+* Presented research on calculating mean values in nonlinear spaces at 55th and 56th National Congress of the Mexican Mathematical Society.
 
 ---
 
