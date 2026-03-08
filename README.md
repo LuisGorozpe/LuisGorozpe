@@ -6,7 +6,7 @@
   
 
   [![Personal Page](https://img.shields.io/badge/Personal-Web--Page-blue?style=for-the-badge&logo=google-cloud)](https://luisgorozpe.github.io/al-folio/)
-  [![Portafolio](https://img.shields.io/badge/Portfolio---blue?style=for-the-badge&logo=google-cloud)](https://luisgorozpe.github.io/portfolio/)
+  [![Portfolio](https://img.shields.io/badge/Web--Portfolio-blue?style=for-the-badge&logo=google-cloud)](https://luisgorozpe.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Gorozpe-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luisgorozpe/)
   [![Email](https://img.shields.io/badge/Email-luis.ascencio%40cimat.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.ascencio@cimat.mx)
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--1694--5993-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-1694-5993)
